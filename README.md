@@ -40,6 +40,6 @@ Hi there 👋 I'm **Vikhyat**, a passionate and curious Computer Science student
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikHyatKumar&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikHyatKumar&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikHyatKumar&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikHyatKumar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikHyatKumar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikHyatKumar&theme=github_dark&utcOffset=8)
