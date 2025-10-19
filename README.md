@@ -26,7 +26,7 @@ Hi there 👋 I'm **Vikhyat**, a passionate and curious Computer Science student
 - 🎓 B.Tech CSE | 4th Year Student
 - ⚡ Interest: Full Stack Development, Networking, System Design, and Game Development
 - 💬 I enjoy solving coding challenges, building useful apps, and experimenting with new tools.
-- 🎮 PC Gamer | 💡 Lifelong Learner
+- 🎮 PC Gamer (Love Playing Different Kind Of Games) | 💡 Lifelong Learner
 - 🧠 Fun Fact: I'm an introvert with a strong drive when committed to something
 
 ---
