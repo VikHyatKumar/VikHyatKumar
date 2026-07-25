@@ -34,9 +34,9 @@ Hi there 👋 I'm **Vikhyat**, a passionate and curious Computer Science student
 ## 🛠️ Tech Stack
 
 - **Languages:** C++, JavaScript, HTML, CSS, SQL
-- **Frameworks:** React.js, Tailwind CSS, Node.js
+- **Frameworks:** React.js, Tailwind CSS, Node.js, REST APIs
 - **Tools & Platforms:**  Git, GitHub, VS Code, Postman
-- **Learning:** Next.js, REST APIs, Linux
+- **Learning:** Next.js, Linux
 
 ---
 
